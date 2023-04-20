@@ -1,16 +1,17 @@
-### Hi there 👋
+<p align="center">
+Heyo! I'm Cosmos!
+I'm a fullstack Developer!
+You can find me on Discord at Cosmos#1111
+</p>
 
-<!--
-**CosmosTheDEV/CosmosTheDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://discord.gg/PrWzd9eBQx" align="center"><img src="https://invidget.switchblade.xyz/eqVUP57PvE?theme=dark"></a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+yay
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Uses-Discord-blue/?logo=discord&logoColor=warning&color=7289DA" alt="discord">
+</p>
