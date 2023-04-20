@@ -9,7 +9,7 @@ Read more at https://linktr.ee/CosmosDEV
 </p>
 
 <p align="center"
-<a href="https://giphy.com/gifs/space-pixel-art-planet-l3978y5HqiEtqupiM" align="center><img src="https://giphy.com/gifs/space-pixel-art-planet-l3978y5HqiEtqupiM"></a>
+<a align="center><img src="https://giphy.com/gifs/space-pixel-art-planet-l3978y5HqiEtqupiM"></a>
 </p>
 
 <p align="center"> 
