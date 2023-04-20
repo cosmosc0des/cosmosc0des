@@ -11,6 +11,7 @@ Read more at https://linktr.ee/CosmosDEV
 <p align="center"
 <a href="https://giphy.com/gifs/space-pixel-art-planet-l3978y5HqiEtqupiM" align="center><img src="https://giphy.com/gifs/space-pixel-art-planet-l3978y5HqiEtqupiM"></a>
 </p>
+
 <p align="center"> 
   <img src="https://img.shields.io/badge/Uses-Discord-blue/?logo=discord&logoColor=warning&color=7289DA" alt="discord">
 </p>
