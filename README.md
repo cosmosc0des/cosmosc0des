@@ -8,6 +8,8 @@ Read more at https://linktr.ee/CosmosDEV
 <a href="https://discord.gg/PrWzd9eBQx" align="center"><img src="https://invidget.switchblade.xyz/eqVUP57PvE?theme=dark"></a>
 </p>
 
+![](https://github.com/CosmosTheDEV/CosmosTheDEV/blob/main/planetspin.gif)
+
 <p align="center"> 
   <img src="https://img.shields.io/badge/Uses-Discord-blue/?logo=discord&logoColor=warning&color=7289DA" alt="discord">
 </p>
