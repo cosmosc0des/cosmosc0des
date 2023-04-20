@@ -1,7 +1,7 @@
 <p align="center">
 Heyo! I'm Cosmos!
 I'm a fullstack Developer!
-You can find me on Discord at Cosmos#1111
+Read more at https://linktr.ee/CosmosDEV
 </p>
 
 <p align="center">
