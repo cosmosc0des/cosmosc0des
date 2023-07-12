@@ -1,6 +1,6 @@
 <p align="center">
 Heyo! I'm Cosmos!
-I'm a fullstack Developer!
+I'm a Web Developer!
 Read more at https://linktr.ee/CosmosDEV
 </p>
 
@@ -9,7 +9,7 @@ Read more at https://linktr.ee/CosmosDEV
   "name": "Cosmos",
   "age": 69420,
   "intrests": ["programming", "gaming"],
-  "operatingSystem": "Ubuntu",
+  "operatingSystem": "Kali Linux",
   "browser": "Chrome",
   "browserExtensions": ["uBlock Origin"],
   "programmingLanguages": ["Javascript", "HTML"],
