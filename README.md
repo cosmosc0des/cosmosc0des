@@ -4,6 +4,7 @@ I'm a fullstack Developer!
 Read more at https://linktr.ee/CosmosDEV
 </p>
 
+```json
 {
   "name": "Cosmos",
   "age": no,
@@ -21,3 +22,4 @@ Read more at https://linktr.ee/CosmosDEV
       "username": "cosmosdev"
   "hasAutism": true
 }
+```
