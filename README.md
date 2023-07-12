@@ -9,7 +9,7 @@ Read more at https://linktr.ee/CosmosDEV
   "name": "Cosmos",
   "age": 69420,
   "intrests": ["programming", "gaming"],
-  "operatingSystem": "Kali Linux",
+  "operatingSystem": "Ubuntu",
   "browser": "Chrome",
   "browserExtensions": ["uBlock Origin"],
   "programmingLanguages": ["Javascript", "HTML"],
