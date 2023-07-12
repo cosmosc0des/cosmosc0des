@@ -7,7 +7,7 @@ Read more at https://linktr.ee/CosmosDEV
 ```json
 {
   "name": "Cosmos",
-  "age": no,
+  "age": 69420,
   "intrests": ["programming", "gaming"],
   "operatingSystem": "Kali Linux",
   "browser": "Chrome",
