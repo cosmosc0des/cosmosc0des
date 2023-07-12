@@ -4,12 +4,20 @@ I'm a fullstack Developer!
 Read more at https://linktr.ee/CosmosDEV
 </p>
 
-<p align="center">
-<a href="https://discord.gg/PrWzd9eBQx" align="center"><img src="https://invidget.switchblade.xyz/eqVUP57PvE?theme=dark"></a>
-</p>
-
-![](https://github.com/CosmosTheDEV/CosmosTheDEV/blob/main/planetspin.gif)
-
-<p align="center"> 
-  <img src="https://img.shields.io/badge/Uses-Discord-blue/?logo=discord&logoColor=warning&color=7289DA" alt="discord">
-</p>
+{
+  "name": "Cosmos",
+  "age": no,
+  "intrests": ["programming", "gaming"],
+  "operatingSystem": "Kali Linux",
+  "browser": "Chrome",
+  "browserExtensions": ["uBlock Origin"],
+  "programmingLanguages": ["Javascript", "HTML"],
+  "hackingTools": ["nmap", "wireshark", "hydra", "metasploit-framework", "aircrack-ng", "john", "burpsuite", "wpscan", "traceroute", "hashcat"],
+  "editor": "VSCode.dev",
+  "socials": {
+    "email": ["vitmajer@tuta.io"],
+    "discord": {
+      "server": "https://dsc.gg/404servernotfound",
+      "username": "cosmosdev"
+  "hasAutism": true
+}
