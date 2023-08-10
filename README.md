@@ -10,7 +10,7 @@ Read more at https://linktr.ee/CosmosDEV
   "age": 69420,
   "intrests": ["programming", "gaming"],
   "operatingSystem": "Kali Linux",
-  "browser": "Tor/Firefox",
+  "browser": "Firefox for Devs",
   "browserExtensions": ["uBlock Origin", "NoScript"],
   "programmingLanguages": ["Javascript", "HTML"],
   "hackingTools": ["nmap", "hydra", "metasploit-framework", "aircrack-ng", "john", "burpsuite", "wpscan", "traceroute", "hashcat"],
@@ -20,7 +20,7 @@ Read more at https://linktr.ee/CosmosDEV
     "discord": {
       "server": "https://dsc.gg/404servernotfound",
       "username": "cosmosdev"
-  "hasAutism": true
+  "hasAspergers": true
 }
 ```
 # Languages/tools I use 🧩
