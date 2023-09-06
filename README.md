@@ -19,7 +19,7 @@ Read more at https://linktr.ee/CosmosDEV
     "email": ["vitmajer@tuta.io"],
     "discord": {
       "server": "https://dsc.gg/404servernotfound",
-      "username": "cosmosdev"
+      "username": "cosmoscodes"
   "hasAspergers": true
 }
 ```
