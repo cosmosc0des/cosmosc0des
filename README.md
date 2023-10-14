@@ -9,7 +9,7 @@ Read more at https://linktr.ee/CosmosDEV
   "name": "Cosmos",
   "age": 13,
   "intrests": ["programming", "gaming"],
-  "operatingSystem": "Kali Linux",
+  "operatingSystem": "Linux",
   "browser": "Firefox for Devs",
   "browserExtensions": ["uBlock Origin", "NoScript"],
   "programmingLanguages": ["Javascript", "HTML"],
