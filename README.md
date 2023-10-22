@@ -1,7 +1,7 @@
 <p align="center">
 Heyo! I'm Cosmos!
 I'm a Web Developer!
-Read more at https://linktr.ee/CosmosDEV
+Read more at https://linktr.ee/CosmosDEV <br>
 DEAR WHOEVER THE FUCK WAS USING MY ACCOUNT FROM RUSSIA: FUCK YOU ASSHOLE
 </p>
 
